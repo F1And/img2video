@@ -105,10 +105,3 @@ venv.bak/
 
 .idea/**
 debug.py
-*.jpg
-*.png
-*.jpeg
-*.tiff
-*.psd
-*.svg
-*.ai
